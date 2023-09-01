@@ -5,6 +5,8 @@ import Button from "@/Components/Button";
 import { Link, Head } from "@inertiajs/react";
 
 export default function Login() {
+
+    
     return (
         <>
             <Head title="Login" />
