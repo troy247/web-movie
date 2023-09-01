@@ -19,6 +19,12 @@ class RegisteredUserController extends Controller
     /**
      * Display the registration view.
      */
+
+    /*
+        Response = class yang digunakan untuk mengembalikan data ke browser.
+        Create = method yang digunakan untuk menampilkan halaman registrasi.
+        Store = method yang digunakan untuk menyimpan data registrasi.
+    */
     public function create(): Response
     {
         return Inertia::render('Auth/Register');
