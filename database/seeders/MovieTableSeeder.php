@@ -22,7 +22,7 @@ class MovieTableSeeder extends Seeder
                 'category' => 'Drama',
                 'video_url' => 'https://www.youtube.com/watch?v=0zIJbutQuts',
                 'thumbnail' => 'https://m.media-amazon.com/images/I/512G9J05RJL._AC_UF1000,1000_QL80_.jpg',
-                'rating' => 9.3,
+                'rating' => 4.3,
                 'is_featured' => 1,
             ],
 
@@ -32,7 +32,7 @@ class MovieTableSeeder extends Seeder
                 'category' => 'Action',
                 'video_url' => 'https://www.youtube.com/watch?v=0zIJbutQuts',
                 'thumbnail' => 'https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg',
-                'rating' => 9.1,
+                'rating' => 4.1,
                 'is_featured' => 0,
             ],
             [
@@ -41,7 +41,7 @@ class MovieTableSeeder extends Seeder
                 'category' => 'Action',
                 'video_url' => 'https://www.youtube.com/watch?v=0zIJbutQuts',
                 'thumbnail' => 'https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg',
-                'rating' => 9.0,
+                'rating' => 4.0,
                 'is_featured' => 0,
             ]
 
